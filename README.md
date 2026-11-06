@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/838ae697-8f38-4fb4-bc63-dee4281b90d5" />
+<img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/e2c89adc-d7ad-46f4-9445-e1a537abe767" />
 # HSRP-Configuration-
 Hot Standby Router Protocol HSRP
 Part 2: Configure HSRP Active and Standby Routers
